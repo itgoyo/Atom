@@ -5,7 +5,7 @@
 
     [2] 下载[Node.js](https://nodejs.org/en/)
 
-    [2] 配置环境变量
+    [3] 配置环境变量
     打开安装Atom文件夹 复制安装路径
 
     ![](http://p1.bqimg.com/567571/5d065a1374244fed.png)
@@ -38,13 +38,13 @@
 
 2.
 
-cd 到下载的插件包文件夹里
+  [1] cd 到下载的插件包文件夹里
 
-然后键入apm install
+  [2] 然后键入apm install
 
-当出现了done的字样之后
+  [3] 当出现了done的字样之后
 
-再键入apm install xxx(插件名)
+  [4] 再键入apm install xxx(插件名)
 
 出现done之后代码成功安装插件
 
