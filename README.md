@@ -53,3 +53,24 @@
 好了下面就是见识狂拽炫酷输入效果的时刻
 
 ![](http://i1.piimg.com/567571/362a78b264be5e71.gif)
+
+
+git-plus 插件不能成功push
+
+在stackoverflow找到答案，你可以在在自己的.git文件夹里边的config修改
+
+
+https://github.com/USER/REPO.git
+
+改成
+
+git@github.com:USER/REPO.git
+
+以下是stackoverflow原文
+
+Well I had the same problem - what annoys me to no end is that I don't have a clue why (edit: bug). I was pushing with https. Manually editing the config did not work for me (or doing a chkdsk as suggested in another answer). I ended up pushing with ssh - as in, replace:
+
+https://github.com/USER/REPO.git
+with
+
+git@github.com:USER/REPO.git
