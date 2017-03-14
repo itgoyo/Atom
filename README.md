@@ -14,7 +14,7 @@
 
     C:\Users\admin\AppData\Local\atom\app-1.14.3\resources\app\apm\bin
 
-    C:\Users\admin\AppData\Local\atom\bin
+    C:\Users\admin\AppData\Local\atom\bin(重点是这个一定要配对)
 
     D:\Program Files\nodejs
 
